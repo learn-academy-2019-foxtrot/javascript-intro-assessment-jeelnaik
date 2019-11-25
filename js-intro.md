@@ -40,7 +40,8 @@ Answer the following questions. First, without external resources. Challenge you
   Your answer: A argument is passed in the function. Arguments of a function can be variable , but every variable is not an argument.
   
 
-  Researched answer:
+  Researched answer: Arguments are values passed to the function when it is invoked.
+  Variable means anything that can vary. JavaScript includes variables which hold the data value and it can be changed anytime.
 
 
 
@@ -48,10 +49,14 @@ Answer the following questions. First, without external resources. Challenge you
 
   Your answer:
   roles:
-  Driver
-  Navigator
+  Driver: Writes the code
+  Navigator: Reviews each line of code as it is typed in.
 
-  Researched answer:
+  Researched answer: Pair programming includes two individuals (developers) working on a single system, with one typing 
+  and the other one navigating or observing. Generally the one responsible for typing is known as the ‘Driver’, 
+  while the other one called the ‘Navigator’ continually revise and review what is being coded or typed.
+  The objective is to share the workload between both the participants in order to maintain the constant development stream and 
+  also to help spread knowledge over the team.Ideally both the team members should switch their duties for better results.
 
 
 
